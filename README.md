@@ -5,7 +5,7 @@
 - **Carrera:** Ingeniería del Software (ISW)
 - **Curso:** ISW-524 - Diseño de Arquitectura de Software
 - **Período:** II - 2026
-- **Grupo:** 02 - Lunes / Viernes
+- **Grupo:** 02 - Lunes 
 - **Profesor:** Mgt. Karlinna Chaves González
 - **Estudiantes:** Kendall & Colaborador
 
