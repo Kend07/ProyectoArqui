@@ -1,0 +1,118 @@
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.sln.docstates
+*.user
+*.userosscache
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+
+# Rider
+.idea/
+.idea_modules/
+*.sln.iml
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Database files
+*.mdf
+*.ldf
+*.ndf
+
+# Local environment
+appsettings.local.json
+*.env
+.env
+
+# OS specific
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Project specific
+ConnectionString.config
+LocalDatabase/
+Temp/
+Backup/
+
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+[Bb]in/
+[Oo]bj/
+
+# mstest test results
+TestResults/
+
+# NUnit or Nunit Console Runner
+nunit-*.xml
+*.VisualState.xml
+
+# Resharper is a code quality tool
+_ReSharper*
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject is a documentation generator add-in
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+# Click-Once directory
+publish/
+
+# Publish Web Output
+*.[Pp]ublish.xml
+*.azurePubxml
+
+# NuGet Seed Values
+.nupkg.metadata
+.nupkg.props
+.nuproj.props
+.nuproj.user
+
+# SQL Server Management Studio (SSMS)
+*.ssms_suo
+*.sql.bakup
+
+# Rider
+.idea/
+*.sln.iml
